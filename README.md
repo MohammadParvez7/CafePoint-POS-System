@@ -4,4 +4,5 @@
 - Delivered a clean and responsive UI for fast order processing and smooth workflow.
 - Technologies :- React.js , Node.js , Express.js , Mongodb
 # 🔴 LIVE PROJECT LINK:
+https://cafe-point-pos-frontend.vercel.app
 
